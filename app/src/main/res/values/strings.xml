@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CardViewExample</string>
+    <string name="show_snack_bar">Show Snack Bar</string>
+    <string name="picture_info">John Avery Whitaker</string>
 </resources>
